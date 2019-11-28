@@ -1,0 +1,4 @@
+/google_maps_kmz/*.kmz
+/google_maps_kmz/*.kml
+/Results/*.txt
+/__pycache__
